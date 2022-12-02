@@ -1,0 +1,195 @@
+uttaranchal,uttarakhand
+orissa,odisha
+laccadive,lakshadweep
+pondicherry,puducherry
+gauhati,guwahati
+nowgong,nagaon
+sibsagar,sivasagar
+new raipur,atal nagar
+broach,bharuch
+cambay,khambhat
+bulsar,valsad
+suryapur,surat
+bhavena,bhavnagar
+riyazpur,rajkot
+hajipura,bhuj
+anandi nagar,gandhinagar
+kutchhpura,kutch
+ahmednagar,anand
+begum nadia nagar,nadiad
+gurgaon,gurugram
+mustafabad,saraswati nagar
+amin,abhimanyupur
+kinnar,gaibi nagar
+chamar khera,sundar khera
+khizrabad,pratap nagar
+simla,shimla
+mandav nagar,mandi
+panjim,panaji
+sanquelim,sankhali
+curchorem,kudchade
+bendakalooru,bengaluru
+bangalore,bengaluru
+dwarawata,dharwad
+dharwar,dharwad
+mangalapuram,mangaluru
+mangalore,mangaluru
+mahishasooru,mysuru
+mysore,mysuru
+hoobhalli,hubballi
+hubli,hubballi
+tumkur,tumakuru
+shivana mogga,shivamogga
+shimoga,shivamogga
+belgaon,belagavi
+belgaum,belagavi
+bellary,ballari
+gulbarga,kalaburgi
+marcera,madikeri
+bijapur,vijayapura
+hospet,hosapete
+chikmagalur,chikkamagaluru
+trivandrum,thiruvananthapuram
+cochin,kochi
+calicut,kozhikode
+quilon,kollam
+trichur,thrissur
+cannanore,kannur
+palghat,palakkad
+alleppey,alappuzha
+changanacherry,changanassery
+alwaye,aluva
+parur,paravur
+cranganore,kodungallur
+badagara,vatakara
+tellicherry,thalassery
+devi colam,devi kulam
+chirayinkil,chirayinkeezhu
+mannarghat,mannarkad
+mannantoddy,mananthavady
+quilandy,koyilandy
+palai,pala
+sultan's battery,sultan bathery
+verapoly,varapuzha
+cherpalchery,cherpulassery
+koney,konni
+sherthalai,cherthala
+nethirimangalam,pattambi
+ahilyanagari,indore
+indur,indore
+avantika,ujjain
+bhelsa,vidisha
+rassen,raisen
+saugor,sagar
+jubbulpore,jabalpur
+bellasgate,bheraghat
+ujjaini,ujjain
+mandu,mandavgarh
+hoshangabad,narmadapuram
+viratnagari,shahdol
+mhow,dr. ambedkar nagar
+bombay,mumbai
+new bombay,navi mumbai
+nasik,nashik
+nagpore,nagpur
+khadki,aurangabad
+chanda,chandrapur
+ellichpur,achalpur
+oomrawutty,amravati
+daulatabad,devagiri
+ambarapur,ausa
+poona,pune
+thana,thane
+bhir,beed
+ratnapur,latur
+mominabad,ambajogai
+ambanagari,amravati
+edlabad,muktainagar
+campoolie,khopoli
+saiha,siaha
+chumukedima,chümoukedima
+balasore,baleshwar
+wheeler island,abdul kalam island
+pondicherry,puducherry
+yanaon,yanam
+jullunder,jalandhar
+ropar,rupnagar
+mohali,sahibzada ajit singh nagar
+nawanshahr,shaheed bhagat singh nagar
+ajaymeru,ajmer
+dhedhi dhani,mansanagar
+jeypore,jaipur
+jessulmere,jaisalmer
+cape comorin,kanyakumari
+ootacamund,udagamandalam
+conjeevaram,kanchipuram
+karuvur,karur
+madras,chennai
+madura,madurai
+porto novo,parangipettai
+mayavaram,mayiladuthurai
+tanjore,thanjavur
+tinnevelly,tirunelveli
+tranquebar,tharangambadi
+triplicane,thriuvallikeni
+trichinopoly,tiruchirapalli
+trinomalee,tiruvannamalai
+tuticorin,thoothukudi
+virudupatti,virudhunagar
+talaivasal,thalaivasal
+dharmapuri,tharumapuri
+singapuram,senji
+badushahbad,senji
+chindiry,senji
+wandiwash,vandavasi
+arcot,aarkadu
+dindigul,thindukkal
+ramnad,ramanathapuram
+kudanthai,kumbakonam
+thillai,chidambaram
+negapatnam,nagapattinam
+idaippadi,edappadi
+aliyabad,kalambur
+srirangam,thiruvarangam
+arni,aarani
+thirumaraikkadu,vedaranyam
+adlapur,adilabad
+elagandla,karimnagar
+indur,nizamabad
+siddapur,medak
+metukuseema,medak
+gulshanabad,medak
+rukmampet,mahabubnagar
+palamoor,mahabubnagar
+orugallu,warangal
+bhuvanagiri,bhongir
+khamammettu,khammam
+cawnpore,kanpur
+banaras,varanasi
+shiv nagar,raj prasad nagar
+kanpur dehat,ramabai nagar
+mustafabad,rampur
+allahabad,prayagraj
+faizabad,ayodhya
+mughalsarai,pandit deen dayal upadhyay nagar
+firozabad,chandra nagar
+calcutta,kolkata
+burdwan,bardhaman
+chinsurah,chuchura
+barahanagore,baranagar
+midnapore,medinipur
+contai,kanthi
+krishnagar,krishnanagar
+chandernagore,chandannagar
+ishapore,ichapur
+sadak,road
+sadak,street
+kolkata,kolkatta
+piche,opposite
+bhawan,building
+bazar,market
+bazaar,market
+niche,under
+mandir,temple
+masjid,mosque
+saamne,front
